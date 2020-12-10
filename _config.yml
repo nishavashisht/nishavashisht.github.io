@@ -23,8 +23,8 @@ locale: "en-US"
 title: Terry Brown Music
 title_separator: "-"
 description: Terry Brown Music
-baseurl: "nishavashisht.github.io" # the subpath of your site, e.g. /blog
-url: "nishavashisht.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 logo: ""
 footercopyright: "© 2020 terrybrownmusic.com"
 twitter_username: ""
